@@ -122,7 +122,7 @@ expansion (CLI interface, database integration, REST API version, etc.).
 
 ## 👨‍💻 Author
 
-**Nick Tm**\
+**Nick Tem**\
 Aspiring Python Developer
 
 GitHub: https://github.com/nicktm8
