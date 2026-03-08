@@ -50,14 +50,18 @@ and employees using clean OOP architecture.
 
 ## 📂 Project Structure
 
-    oop-online-store-system/
+   oop-online-store-system/
     │
-    ├── person.py
-    ├── employee.py
-    ├── user.py
-    ├── product.py
-    └── main.py
-
+    ├── models/
+    │   ├── person.py
+    │   ├── employee.py
+    │   ├── user.py
+    │   └── product.py
+    │
+    ├── main.py
+    ├── README.md
+    └── .gitignore
+    
 ------------------------------------------------------------------------
 
 ## ▶️ How to Run
