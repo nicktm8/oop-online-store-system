@@ -50,8 +50,6 @@ and employees using clean OOP architecture.
 
 ## 📂 Project Structure
 
-   ## 📁 Project Structure
-
 ```
 oop-online-store-system/
 ├── models/
@@ -69,26 +67,18 @@ oop-online-store-system/
 
 ## ▶️ How to Run
 
-1.  Clone the repository:
-
-```{=html}
-<!-- -->
+1. Clone the repository:
+```bash
+   git clone https://github.com/nicktm8/oop-online-store-system.git
 ```
-    git clone https://github.com/nicktm8/oop-online-store-system.git
-
-2.  Navigate to the project directory:
-
-```{=html}
-<!-- -->
+2. Navigate to the project directory:
+```bash
+   cd oop-online-store-system
 ```
-    cd oop-online-store-system
-
-3.  Run the program:
-
-```{=html}
-<!-- -->
+3. Run the program:
+```bash
+   python main.py
 ```
-    python main.py
 
 ------------------------------------------------------------------------
 
